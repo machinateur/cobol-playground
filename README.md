@@ -97,6 +97,10 @@ PATH="$PATH:$SW_GNUCOBOL_PATH/bin"
   * [GnuCOBOL 3.2 Quick Reference](gnucobqr-a4.pdf)
   * [GnuCOBOL 3.2 Sample Programs](gnucobsp-a4.pdf)
 
+## Code editor
+
+There are many editors out there (Notepad++, Vim to name some). The extensions for cobol supported available for Visual Studio Code provide sufficient highlighting and linting. Use the "COBOL" by "BitLang".
+
 ## A simple program
 
 A simple `Hello world` program may look like this:
