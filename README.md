@@ -117,7 +117,7 @@ A simple `Hello world` program may look like this:
 
 ```
 
-[See also `hello-world.cob`](hello-world.cob)
+See also [`hello-world.cob`](hello-world.cob).
 
 ## License
 
